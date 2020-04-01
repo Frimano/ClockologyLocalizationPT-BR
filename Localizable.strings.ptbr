@@ -4,6 +4,7 @@
 
   Criado por Sylvain Guillier em 20/12/2019.
   Copyright © 2019 Michael Hill. Todos os direitos reservados.
+  Tradução PT-BR feita por Frimano.
 */
 "Delete" = "Deletar";
 "Clone" = "Clonar";
@@ -24,15 +25,15 @@
 "Delete" = "Deletar";
 "Cancel" = "Cancelar";
 "Save" = "Salvar";
-"Second Hand" = "Segundos";
-"Minute Hand" = "Minutos";
-"Hour Hand" = "Horas";
+"Second Hand" = "Ponteiro (Segundos)";
+"Minute Hand" = "Ponteiro (Minutos)";
+"Hour Hand" = "Ponteiro (Horas)";
 "Date / Time Label" = "Indicação de Data / Hora";
 "Number Ring" = "Anel Numérico";
 "Shape Ring" = "Anel de Forma";
 "Image Texture" = "Textura de Imagem";
 "Color Texture" = "Textura de Cor";
-"Gradient Texture" = "Textura Degradê";
+"Gradient Texture" = "Degradê";
 "Gear" = "Engrenagem";
 "Battery Indicator" = "Indicador de Bateria";
 "Particle Field" = "Campo de Partículas";
@@ -43,7 +44,7 @@
 "Colors" = "Cores";
 "Import from defaults" = "Importar dos padrões";
 "Settigns" = "Ajustes";
-"Are you sure you want to reset to default settings ?" = "Tem certeza que deseja resetar para os ajustes padrões ?";
+"Are you sure you want to reset to default settings ?" = "Tem certeza que deseja restaurar para os ajustes padrões ?";
 "Switch faces when full screen" = "Trocar relógio quando em tela cheia";
 "Switch timing" = "Troca temporizada";
 "Reset to defaults" = "Restaurar aos padrões";
@@ -75,7 +76,7 @@
 "Shape" = "Formato";
 "Rotation" = "Rotação";
 "Type" = "Tipo";
-"Justification" = "Justificação";
+"Justification" = "Posição";
 "Show Custom Text" = "Mostrar Texto Customizado";
 "Enter Custom Text" = "Digite o Texto Customizado";
 "Format" = "Formato";
@@ -115,9 +116,9 @@
 "Hide" = "Ocultar";
 "Hide Layer" = "Ocultar Camada";
 "Show" = "Mostrar";
-"Time Travel" = "Viagem no Tempos";
+"Time Travel" = "Avançar Horário (Prévia)";
 "Pattern" = "Padrão";
-"Render Shape" = "Renderizar Formato";
+"Render Shape" = "Formato";
 "Enter new name" = "Digite o nove nome";
 "mins" = "mins";
 "days" = "dias";
@@ -127,9 +128,9 @@
 "Medium Box" = "Caixa Média";
 "Flipped Triangle" = "Triângulo Invertido";
 "Triangle" = "Triângulo";
-"Thin Box" = "Caixa Fina";
+"Thin Box" = "Caixa Pequena";
 "Circle" = "Círculo";
-"Tube" = "Tubo";
+"Tube" = "Arredondado";
 "Start Color" = "Cor Inicial";
 "Direction" = "Direção";
 "End Color" = "Cor Final";
@@ -138,7 +139,7 @@
 "Vertical" = "Vertical";
 "None" = "Nenhum" ;
 "Untitled" = "Sem Título";
-"HealthKit Label" = "Letreiro HealthKit";
+"HealthKit Label" = "Letreiro de Saúde";
 "13200 - Long Step Count" = "13200 - Contador de Passos";
 "13.2k - Short Step Count" = "13.2k - Contador de Passos Abreviado";
 "Frame" = "Quadro";
@@ -156,7 +157,7 @@
 "Activity" = "Atividade";
 "Digital" = "Digital";
 "Health" = "Saúde";
-"Weather" = "Tempo";
+"Weather" = "Clima";
 "Animated" = "Animação";
 "Count" = "Contador";
 "Are you sure you want to delete this clock ?" = "Tem certeza que deseja remover esse relógio ?";
@@ -172,15 +173,15 @@
 "Auto Light/Dark" = "Claro/Escuro Automático";
 "Dark" = "Escuro";
 "Light" = "Claro";
-"Time Label" = "Letreiro de Horário";
+"Time Label" = "Letreiro de Horário e Data";
 "Left" = "Esquerda";
 "Centered" = "Centralizado";
 "Right" = "Direita";
-"Color Shape" = "Formato da Cor";
+"Color Shape" = "Cor";
 "Custom Text Label" = "Letreiro Cutomizado";
 "Activity Bar" = "Barra de Atividades";
 "Utility" = "Utilidade";
-"Video" = "Vidéo";
+"Video" = "Vídeo";
 "Icon" = "Ícone";
 "Fancy White" = "Branco Chique";
 "Fancy Red" = "Vermelho Chique";
@@ -189,10 +190,10 @@
 "Numbers" = "Números";
 "Submariner" = "Submarinor";
 "Gallery" = "Galeria";
-"Swiss Railway" = "Ferrovia Suíça";
-"Swiss Dot End" = "Pontilhada Suíça";
+"Swiss Railway" = "Estação Suíça";
+"Swiss Dot End" = "Ponta Redonda Suíça";
 "Rail" = "Trilho";
-"Blocky" = "Cubos";
+"Blocky" = "Cúbico";
 "Pointy" = "Pontudo";
 "Squared Hole" = "Furo Quadrado";
 "Magnetic Sphere" = "Esfera Magnética";
@@ -205,7 +206,7 @@
 "Split Diagonal" = "Diagonal Dividida";
 "Vertical Split" = "Vertical Dividida";
 "Horizontal Split" = "Horizontal Dividida";
-"Square with Cutout" = "Quadrado com Corte";
+"Square with Cutout" = "Quadrado com Cortes";
 "Circle with Cutouts" = "Círculo com Cortes";
 "Inner Shadow" = "Sombra Interior";
 "Dark Inner Shadow" = "Sombra Interior Escura";
@@ -242,7 +243,7 @@
 "Chicago - time zone city" = "Brasília - fuso horário";
 ": - colon" = ": - dois pontos";
 "/ - slash" = "/ - barra";
-"Kerning" = "Formatação";
+"Kerning" = "Espaçamento";
 "82 - Heart Rate" = "82 - Batimentos por Minuto";
 "15.2 - Distance Walked/Run" = "15.2 - Distância Percorrida";
 "15.2km - Distance Walked/Run" = "15.2km - Distância Percorrida";
@@ -270,7 +271,7 @@
 "Exercice" = "Exercitar";
 "Bar Width:" = "Largura da Barra:";
 "Bar Height:" = "Altura da Barra:";
-"Bar Corner:" = "Canto da Barra:";
+"Bar Corner:" = "Cantos da Barra:";
 "Ring Width:" = "Largura do Anel:";
 "Count" = "Contagem";
 "all on" = "ligar tudo";
@@ -284,9 +285,9 @@
 "Oval" = "Oval";
 "Square" = "Quadrado";
 "Rotate Text" = "Rotacionar Texto";
-"Render Shape" = "Renderizar Formato";
-"Big Mechanical" = "Mecânico Grande";
-"Small Mechanical" = "Mecânico Pequeno";
+"Render Shape" = "Formato";
+"Big Mechanical" = "Mecânica Grande";
+"Small Mechanical" = "Mecânica Pequeno";
 "Pong Game" = "Ping-Pong";
 "Starfield" = "Estrelado";
 "Snow Falling" = "Nevasca";
@@ -302,12 +303,12 @@
 "Split Flap" = "Flip Dividido";
 "Speech" = "Anúncio";
 "Talking Clock" = "Relógio Falante";
-"Tap" = "Toque";
+"Tap" = "Tocar na Tela";
 "Bip";
 "Tick";
 "Type your text" = "Digite seu Texto";
-"Trigger" = "Acionar";
-"Hour" = "Hora";
-"Second" = "Segundo";
-"Minute" = "Minuto";
-"Appears" = "Aparece";
+"Trigger" = "Tocar";
+"Hour" = "Cada Hora";
+"Second" = "Cada Segundo";
+"Minute" = "Cada Minuto";
+"Appears" = "Quando Tela Acender";
