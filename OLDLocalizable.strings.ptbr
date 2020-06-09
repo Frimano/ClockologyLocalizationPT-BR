@@ -54,9 +54,9 @@
 "Position" = "Posição";
 "Alpha" = "Alpha";
 "Scale" = "Escala";
-"Angle" = " ngulo";
+"Angle" = "Ângulo";
 "Strength" = "Força";
-"Image Anchor:" = " ncora de Imagem:";
+"Image Anchor:" = "Âncora de Imagem:";
 "Outline Width" = "Grossura do Contorno";
 "Effect" = "Efeito";
 "Animation Style" = "Estilo da Animação";
@@ -79,7 +79,7 @@
 "Justification" = "Posição";
 "Show Custom Text" = "Mostrar Texto Customizado";
 "Enter Custom Text" = "Digite o Texto Customizado";
-// "Format" = "Formato";
+"Format" = "Formato";
 "Text Effect" = "Efeito de Texto";
 "Font" = "Fonte";
 "Enter the title" = "Digite o Título";
@@ -267,7 +267,7 @@
 "☁️ - Current Weather Icon" = "☁️ - Ícone de Tempo Atual";
 "Stand" = "Levantar";
 "Move" = "Mover";
-"End Color" = "Cor Final";
+"End Colour" = "Cor Final";
 "Exercice" = "Exercitar";
 "Bar Width:" = "Largura da Barra:";
 "Bar Height:" = "Altura da Barra:";
@@ -312,105 +312,3 @@
 "Second" = "Cada Segundo";
 "Minute" = "Cada Minuto";
 "Appears" = "Quando Tela Acender";
-
-//Update
-"Selection" = "Seleção";
-"Vibration Enable" = "Vibração Habilitada";
-"Help" = "Ajuda";
-"FAQ" = "Perguntas frequentes";
-"Appeareance" = "Aparência";
-"Icon Style" = "Estilo do ícone";
-"Sync Mode" = "Modo de Sincronização";
-"Empty sync asset cache";
-"Options" = "Opções";
-"Manage Permissions" = "Gerenciar Permissões";
-"Full Screen" = "Tela Cheia";
-"Automatically advance faces" = "Avançar Automaticamente os Mostratores";
-"Advance timing" = "Avançar a Cronometragem";
-"Long press saves photo" = "Pressionar Longamente Salva a Foto";
-"Long press in full screen saves transparent photo" = "Pressionar Longamente Salva a Foto Transparente";
-"Authorize" = "Autorizar";
-"Health" = "Saúde";
-"We need access to some health information to show your activity on the clocks." = "Precisamos acessar algumas informações de saúde para mostrar sua atividade nos relógios.";
-"We need your location in order to provide accurate weather information." = "Precisamos da sua localização para fornecer informações meteorológicas mais precisas";
-"Authorization Granted" = "Autorização concedida";
-"Authorization Prompted" = "Solicitação de autorização";
-"Not Prompted" = "Não Autorizado";
-"Twelve - hour as word";
-"Thirty - minute as word";
-"Fifty Nine - second as word";
-"Twelve Hours - hour as word + unit";
-"Thirty Minutes - minute as word + unit";
-"Fifty-Nine Seconds - second as word + unit";
-"Word" = "Palavra";
-"Capital" = "Capital";
-"lower" = "mais baixo";
-"Sentence" = "Frase";
-"UPPERCASED" = "MAIÚSCULAS";
-"Privacy Policy" = "Política de Privacidade";
-"Manage" = "Gerenciar";
-"Legal" = "Legal";
-"Push" = "Empurrar";
-"Noise" = "Ruído";
-"GravIn";
-"Magnet" = "Imã";
-"Battery Hand = Ponteiro de Bateria";
-
-"Size" = "Tamanho";
-"Angle" = "Ângulo";
-"Curved" = "Curva";
-"Create Clock" = "Criar Relógio";
-"Manage Storage and Data Usage" = "Gerenciar armazenamento e Utilização de dados";
-"Appearance" = "Aparência";
-"Default" = "Padrão";
-//"Finish" = "Terminar";
-"Random" = "Aleatório";
-"Templates";
-"Mechanical" = "Mecânico";
-"Stopwatch" = "Cronômetro";
-"Create" = "Criar";
-
-"Watch Sync" = "Sincronizar Relógio;
-"Analog" = "Analógico";
-
-"Sync to Apple Watch" = "Sincronizar com Apple Watch";
-"Sorted by" = "Organizar por";
-"Name" = "Nome";
-"Date" = "Data";
-"Replace Clocks ?" = "Substituir Relógios?";
-"Ready to Transfer" = "Pronto para Transferir";
-"Color Hexadecimal Value" = "Cor Hexadecimal";
-"Open Companion App" = "Abrir Aplicativo Companion";
-"Your current selection does not include any " = "Sua seleção não incluí um(a) ";
-"Select at least one " = "Selecione pelo menos um(a) ";
-" or a folder that contains an " = " ou uma pasta que contenha um(a) ";
-"About Activity Clocks" = "Sobre Relógios de Atividade";
-"activity clocks" = "relógios de atividade";
-"activity clock" = "relógio de atividade";
-"clock" = "relógio" ;
-"clocks" = "relógios";
-"Activity Clocks" = "Relógios de Atividade";
-"Activity Clocks are customized dashboards that give you up-to-date information using the following features:" = "Relógios de atividade são painéis customizáveis que informam utilizando as seguintes características";
-"Activity & Health" = "Atividade e saúde";
-"Steps, exercise and movement including goals can be repesented as rings, bars, or text.";
-"Plays back high speed video with different ways of triggering the playback." = "Toca um vídeo com diversas maneiras de ativação";
-"Plays various sounds that can be configured to playback custom sounds or voice activated sounds with the current time." = "Toca sons configuráveis com comando de voz ou horário";
-"Using your current location, see the current weather as an icon, temperature, or words." = "Usando sua localização atual, ver o tempo atual como ícone, temperatura ou texto";
-"Battery levels, connectivity status, and other device information." = "Níveis de bateria, status de conexão e outras informações";
-"Syncing" = "Sincronização";
-"Information" = "Informação";
-"Clock Tap Action" = "Ação ao toque";
-"Edit Clock" = "Editar Relógio";
-
-
-//UPDATE
-"Formats" = "Formatos";
-"Animate Clockwise" = "Animado (Sentido Horário);
-"Use 24 hour rotation" = "Usar rotação 24 hrs;
-
-// AppStore
-"Create" = "Criar";
-"Visualize" = "Visualizar";
-"Sync" = "Sincronizar";
-"Share" = "Compartilhar";
-"Manage" = "Gerenciar";
